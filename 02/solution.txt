@@ -1,0 +1,2 @@
+Assuming that X Y Z are moves, the point total after all rounds is 8890.
+Assuming that X Y Z are outcomes, the point total after all rounds is 10238.
